@@ -116,6 +116,7 @@ int main() {
 **Accessing 2D Array Elements Using Pointers:**
 {% highlight c %}
 {% raw %}
+```c
 #include <stdio.h>
 
 int main() {
@@ -129,6 +130,7 @@ int main() {
     }
     return 0;
 }
+```
 {% endraw %}
 {% endhighlight %}
 
