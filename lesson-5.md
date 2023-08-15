@@ -114,7 +114,8 @@ int main() {
 ### Multi-dimensional Arrays Examples
 
 **Accessing 2D Array Elements Using Pointers:**
-```c
+{% highlight c %}
+{% raw %}
 #include <stdio.h>
 
 int main() {
@@ -128,7 +129,8 @@ int main() {
     }
     return 0;
 }
-```
+{% endraw %}
+{% endhighlight %}
 
 ### Strings and Pointers Examples
 
